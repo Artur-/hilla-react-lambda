@@ -31,7 +31,6 @@
     "@vaadin/vaadin-themable-mixin": "23.3.0",
     "classnames": "^2.3.2",
     "construct-style-sheets-polyfill": "3.1.0",
-    "line-awesome": "1.3.0",
     "lit": "2.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -68,7 +67,6 @@
     "@lit-labs/react": "$@lit-labs/react",
     "@vaadin-component-factory/vcf-nav": "$@vaadin-component-factory/vcf-nav",
     "classnames": "$classnames",
-    "line-awesome": "$line-awesome",
     "react": "$react",
     "react-dom": "$react-dom",
     "react-router-dom": "$react-router-dom",
@@ -138,6 +136,6 @@
       "workbox-core": "6.5.0",
       "workbox-precaching": "6.5.0"
     },
-    "hash": "b8b9689b1e77475ad7bbddec7a9a3ea3e40a08c5c94814bd9196fb68c4f926df"
+    "hash": "02417d64d7b5978d8d924d6edd85a34e91e3af639bbac265bc5a4ddf3e035c14"
   }
 }
